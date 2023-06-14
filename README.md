@@ -18,7 +18,7 @@
 
 <p>
   <img src="https://github.com/AntonioAMPY/AntonioAMPY/assets/39747272/8e04716e-e971-4e9a-8b86-798e110843b5" alt="antonioampy-contributions"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioAMPY&show_icons=true&locale=en&theme=radical" alt="antonioampy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioAMPY&show_icons=true&locale=en&theme=radical" alt="antonioampy"/>
 </p>
 
 
