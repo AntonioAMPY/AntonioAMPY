@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Acevedo</h1>
 <h3 align="center">I'm a frontend developer, very passionate and autodidact.</h3>
 
-- 🔭 I’m currently working as Software Engineer at Globant.
+- 🔭 I’m currently working as Software Engineer.
 
 - 🌱 I’m currently learning **AWS,GCP, Nodejs, Nextjs, React Native**
 
