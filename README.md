@@ -20,6 +20,5 @@
 
 ------------------------------
 ### My Social Media Accounts
-[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>]([https://www.linkedin.com/in/4furkancengiz4/](https://www.linkedin.com/in/antonio-acevedo-m/))
-
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-acevedo-m/)
 
